@@ -1,0 +1,22 @@
+body {}
+input {background:#161616 none; border:1px solid #0cf;}
+
+/*incoming*/
+.i {color:#96a2a3;}
+.in {background:#545d5e; color:#161616;}
+.its {}
+
+/*outgoing*/
+.o {color:#de3035;}
+.on {background:#545d5e; color:#bcd0d5;}
+.ots {}
+
+/*misc*/
+a {text-decoration: none;}
+a:link {color:#dcab37;}
+/*a:link:hover {text-decoration:underline;}*/
+.st {line-height:1.6em; padding:0 5px; color:#3f4546;}
+.s {opacity:0; font-size:1px; width:1px;}
+.se {padding:0 5px; display:inline-block; max-width:100px; white-space:nowrap;text-overflow:ellipsis;overflow:hidden}
+.t {padding:0 5px; line-height:1.6em; float:left; margin-right:0px; background:#3f4546; color:#161616;}
+.m {overflow:hidden; line-height:1.6em;}

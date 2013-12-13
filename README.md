@@ -10,11 +10,6 @@ Clone this repo into your Message Styles directory inside Adium.
     git clone https://github.com/o2dazone/AdiumMessageStyles.git ~/Library/Application\ Support/Adium\ 2.0/Message\ Styles/o2.AdiumMessageStyle
 
 
-# Author
-
-Brandon Murry (<o2dazone@gmail.com>)
-
-
 # License
 
 License:: Apache License, Version 2.0
